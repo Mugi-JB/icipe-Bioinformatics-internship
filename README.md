@@ -28,4 +28,11 @@ This is an outline of the objectives I have for the [Bioinformatics Incubation a
 * Apply programming languages, R and python, in manipulating biological data/sequencing data.
 * Improve my communication skills.
 
+### Milestones
+* Participate in Journal Club Presentations
+* Work on a Bioinformatics Mini-Project
+* Be active in group discussions and contribute relevant information
+* Identify and contribute to relevant projects on GitHub
+* Identify and engage potential mentors on topics related to my interests
+
 
