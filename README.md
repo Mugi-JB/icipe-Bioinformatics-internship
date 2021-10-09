@@ -18,4 +18,14 @@ To put Bioinformatics tools in the hands of more scientists.
     - Passion
     - Honesty
 
+## Roadmap
+This is an outline of the objectives I have for the [Bioinformatics Incubation and Mentorship Program](https://eanbit.icipe.org/?page_id=1664).
+
+### Objectives
+* Gain a fundamental understanding of bioinformatics and the intricacies involved in handling and manipulating biological data to develop and enhance Graphical User Interface (GUI) tools for those with little to no programming experience, to ease the analysis of biological data.
+* Have a mentor in the development of computational tools for expanding the use of biological data, and open science.
+* Adopt a collaborative approach to my problem-solving system and learn to make my work more reproducible.
+* Apply programming languages, R and python, in manipulating biological data/sequencing data.
+* Improve my communication skills.
+
 
