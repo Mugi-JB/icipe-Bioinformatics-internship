@@ -31,7 +31,7 @@ This is an outline of the objectives I have for the [Bioinformatics Incubation a
 ### Milestones
 * Participate in Journal Club Presentations
 * Work on a Bioinformatics Mini-Projects
-* Engage and contribute to discussions and workspaces relevant to bioinformatics nad computational bioilogy
+* Engage and contribute to discussions and workspaces relevant to bioinformatics and computational biology
 * Identify and engage potential mentors on topics related to my interests
 
 
