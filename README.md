@@ -47,5 +47,4 @@ This is an outline of the objectives I have for the [Bioinformatics Incubation a
 * Work on a Bioinformatics Mini-Projects
 * Engage and contribute to discussions and workspaces relevant to bioinformatics and computational biology
 * Identify and engage potential mentors on topics related to my interests
-
-
+---
