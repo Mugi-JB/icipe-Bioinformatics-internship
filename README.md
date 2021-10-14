@@ -1,7 +1,7 @@
 <details>
   <summary>Table of Contents</summary>
   
-  * [Introduction](introduction)
+  * [Introduction](hi)
   * [Mission](#mission)
   * [Vision](#vision)
   * [Core Values](#core-values)
