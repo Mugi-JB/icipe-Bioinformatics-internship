@@ -1,3 +1,13 @@
+<details>
+  <summary>Table of Contents</summary>
+  
+  * [Introduction](introduction)
+  * [Mission](#mission)
+  * [Vision](#vision)
+  * [Core Values](#core-values)
+  * [Roadmap](#roadmap)
+</details>
+
 ### Hi 
 I am JB Mugi, an ambitious Sci-Tech enthusiast with a background in the fields of **Biochemistry** and **Computer Engineering**, really interested in the effective generation, analysis, sharing/open Science and the secure storage of multi-omics data and information with the help of Bioinformatics and Computer engineering for an enhanced scientific research and development process.
 
