@@ -1,3 +1,17 @@
+
+---
+<details>
+  <summary>Table of Contents</summary>
+  
+  * [Introduction](#hi)
+  * [Mission](#mission)
+  * [Vision](#vision)
+  * [Core Values](#core-values)
+  * [Roadmap](#roadmap)
+</details>
+
+---
+
 ### Hi 
 I am JB Mugi, an ambitious Sci-Tech enthusiast with a background in the fields of **Biochemistry** and **Computer Engineering**, really interested in the effective generation, analysis, sharing/open Science and the secure storage of multi-omics data and information with the help of Bioinformatics and Computer engineering for an enhanced scientific research and development process.
 
@@ -33,5 +47,4 @@ This is an outline of the objectives I have for the [Bioinformatics Incubation a
 * Work on a Bioinformatics Mini-Projects
 * Engage and contribute to discussions and workspaces relevant to bioinformatics and computational biology
 * Identify and engage potential mentors on topics related to my interests
-
-
+---
